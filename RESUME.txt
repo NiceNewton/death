@@ -1,0 +1,62 @@
+[Your Name]
+[Your Address]
+[Your City, State ZIP Code]
+[Your Email Address]
+[Your Phone Number]
+[LinkedIn Profile (Optional)]
+
+Objective:
+Seeking an internship position in [Specific Field/Area] to apply and enhance my skills in Computer Science and Engineering, leveraging my education at KIIT University and passion for innovative solutions.
+
+Education:
+Bachelor of Technology in Computer Science and Engineering
+KIIT University, [City, State]
+Expected Graduation: [Month, Year]
+
+Relevant Coursework:
+
+Data Structures and Algorithms
+Object-Oriented Programming
+Database Management Systems
+Software Engineering
+Operating Systems
+Web Development
+Skills:
+Programming Languages: [List of relevant languages e.g., Java, Python, C++]
+Web Development: [List of relevant technologies e.g., HTML, CSS, JavaScript]
+Database Management: [List of relevant databases e.g., MySQL, PostgreSQL]
+Software Development: [List of relevant tools/frameworks e.g., Git, Django, React]
+Problem Solving and Algorithm Design
+Strong Analytical and Debugging Skills
+Team Collaboration and Communication
+Projects:
+[Project Name]
+
+Description: Briefly describe the project, technologies used, and your role.
+GitHub Link (if applicable)
+[Project Name]
+
+Description: Briefly describe the project, technologies used, and your role.
+GitHub Link (if applicable)
+Experience (if any):
+[Company Name], [Location] - [Position]
+[Month Year] - [Month Year]
+
+Bullet points highlighting your responsibilities and achievements in the role.
+[Company Name], [Location] - [Position]
+[Month Year] - [Month Year]
+
+Bullet points highlighting your responsibilities and achievements in the role.
+Achievements:
+Mention any relevant achievements or awards you have received during your academic journey.
+Certifications (if any):
+[Certification Name], [Issuing Organization], [Year]
+
+[Certification Name], [Issuing Organization], [Year]
+
+Activities and Involvements:
+[List any relevant extracurricular activities, club memberships, or volunteering experiences]
+Languages:
+[List any additional languages you are proficient in, if applicable]
+References:
+Available upon request.
